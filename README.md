@@ -1,8 +1,3 @@
-[![CI](https://github.com/DeFiCh/defichain.com/actions/workflows/ci.yml/badge.svg)](https://github.com/DeFiCh/defichain.com/actions/workflows/ci.yml)
-[![defichain.com](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/nfvd2a/main&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/nfvd2a/runs)
-[![codecov](https://codecov.io/gh/DeFiCh/defichain.com/branch/master/graph/badge.svg?token=UBP6EIO477)](https://codecov.io/gh/DeFiCh/defichain.com)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2ce5af6b-2e37-47af-b6d1-174ceabf633c/deploy-status)](https://app.netlify.com/sites/defichain-website/deploys)
-
 # [DeFiChain.com](https://defichain.com)
 
 > https://defichain.com
@@ -45,7 +40,7 @@ convenience with basic toolchain setup but use of IntelliJ is totally optional.
 ### Security issues
 
 If you discover a security vulnerability in
-`DeFiChain.com`, [please see submit it privately](https://github.com/DeFiCh/.github/blob/main/SECURITY.md).
+`DeFiChain.com`, [please see submit it privately].
 
 ## License & Disclaimer
 
